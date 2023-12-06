@@ -1,0 +1,11 @@
+{
+    "name": "Cricket Chrome Extension",
+    "version": "1.0.0",
+    "description": "This chrome extension display the update of the ongoing matches",
+    "manifest_version": 3,
+    "author": "Kshitij Sharma",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket Chrome Extension"
+    }
+}

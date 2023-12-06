@@ -1,0 +1,16 @@
+body {
+    min-width: 400px;
+    background: linear-gradient(to right, rgb(160, 130, 231), rgb(244, 123, 171));
+}
+
+.heading{
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+}
+
+#matches{
+    font-size: medium;
+    font-weight: 600;
+   
+}
